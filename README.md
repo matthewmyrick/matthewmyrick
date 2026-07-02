@@ -16,15 +16,6 @@
 
 ---
 
-### `╰─❯ ls ~/projects --featured`
-
-| repo | what it is |
-|---|---|
-| 🔍 [git-diffs](https://github.com/matthewmyrick/git-diffs) | Full-screen TUI for git diffs between branches — side-by-side view, syntax highlighting, fuzzy search (Go) |
-| 🐧 [catch-pokemon](https://github.com/matthewmyrick/catch-pokemon) | Terminal Pokémon catching game with weighted encounters, animated ASCII art, and signed save storage (Rust/Go) |
-| ⚡ [azure-searcher](https://github.com/matthewmyrick/azure-searcher) | Blazing-fast Azure resource explorer TUI — parallel fetching + smart caching (Go) |
-| 🖥️ [portfolio-site](https://github.com/matthewmyrick/portfolio-site) | This terminal-style portfolio — React/TS/Vite over a virtual filesystem, self-hosted from my home lab |
-
 ### `╰─❯ cat stack.txt`
 
 <div align="center">
@@ -46,14 +37,14 @@
 
 </div>
 
-### `╰─❯ neofetch --stats`
+### `╰─❯ ls ~/projects --featured`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=matthewmyrick&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewmyrick&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
+| repo | what it is |
+|---|---|
+| 🔍 [git-diffs](https://github.com/matthewmyrick/git-diffs) | Full-screen TUI for git diffs between branches — side-by-side view, syntax highlighting, fuzzy search (Go) |
+| 🐧 [catch-pokemon](https://github.com/matthewmyrick/catch-pokemon) | Terminal Pokémon catching game with weighted encounters, animated ASCII art, and signed save storage (Rust/Go) |
+| ⚡ [azure-searcher](https://github.com/matthewmyrick/azure-searcher) | Blazing-fast Azure resource explorer TUI — parallel fetching + smart caching (Go) |
+| 🖥️ [portfolio-site](https://github.com/matthewmyrick/portfolio-site) | This terminal-style portfolio — React/TS/Vite over a virtual filesystem, self-hosted from my home lab |
 
 ### `╰─❯ contact --list`
 
