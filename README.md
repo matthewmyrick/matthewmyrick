@@ -1,26 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=A6E3A1&center=true&vCenter=true&width=600&lines=Hello%2C+my+name+is+Matthew!;Infrastructure+%2F+Platform+Engineer;SRE+Lead+%40+Hadrius+AI+(YC);There's+no+place+like+127.0.0.1+%F0%9F%8F%A1" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=89B4FA&center=true&vCenter=true&width=640&lines=Hello%2C+my+name+is+Matthew!;Infrastructure+%2F+Platform+Engineer+%C2%B7+SRE;Founding+Infra+Lead+%40+Hadrius+AI+(YC);There's+no+place+like+127.0.0.1+%F0%9F%8F%A1" alt="typing intro" />
+
+<img src="terminal.svg" alt="terminal session" width="760" />
 
 </div>
-
-```console
-╭─ visitor @ github • ~
-╰─❯ whoami
-Matthew Myrick — Infrastructure / Platform Engineer · SRE Lead
-
-╭─ visitor @ github • ~
-╰─❯ cat about.md
-Founding infrastructure lead @ Hadrius AI (YC) — running a 600+ node
-Kubernetes fleet at a 99.9% SLA. Deep in Postgres internals, observability,
-CI/CD, and self-hosted everything.
-
-I like terminals, automation, and owning the whole stack — literally.
-My portfolio is served from a box in my NYC apartment.
-
-╭─ visitor @ github • ~
-╰─❯ open portfolio
-```
 
 <div align="center">
 
@@ -82,4 +66,3 @@ My portfolio is served from a box in my NYC apartment.
 <sub>🏡 <i>There's no place like 127.0.0.1 — this profile pairs well with the real terminal at <a href="https://matthewjmyrick.com">matthewjmyrick.com</a></i></sub>
 
 </div>
-
