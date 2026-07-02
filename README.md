@@ -14,7 +14,7 @@
 
 ---
 
-### <img src="cmd-stack.svg" height="22" alt="cat stack.txt" />
+### <img src="cmd-stack.svg" height="28" alt="cat stack.txt" />
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 </div>
 
-### <img src="cmd-projects.svg" height="22" alt="ls ~/projects --featured" />
+### <img src="cmd-projects.svg" height="28" alt="ls ~/projects --featured" />
 
 | repo | what it is |
 |---|---|
@@ -44,7 +44,7 @@
 | ⚡ [azure-searcher](https://github.com/matthewmyrick/azure-searcher) | Blazing-fast Azure resource explorer TUI — parallel fetching + smart caching (Go) |
 | 🖥️ [portfolio-site](https://github.com/matthewmyrick/portfolio-site) | This terminal-style portfolio — React/TS/Vite over a virtual filesystem, self-hosted from my home lab |
 
-### <img src="cmd-contact.svg" height="22" alt="contact --list" />
+### <img src="cmd-contact.svg" height="28" alt="contact --list" />
 
 <div align="center">
 
