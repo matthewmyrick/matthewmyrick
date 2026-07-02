@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=89B4FA&center=true&vCenter=true&width=640&lines=Hello%2C+my+name+is+Matthew!;Infrastructure+%2F+Platform+Engineer+%C2%B7+SRE;Founding+Infra+Lead+%40+Hadrius+AI+(YC);There's+no+place+like+127.0.0.1+%F0%9F%8F%A1" alt="typing intro" />
 
-<a href="https://matthewjmyrick.com"><img src="terminal.svg" alt="terminal session — click to open matthewjmyrick.com" width="760" /></a>
+<a href="https://matthewjmyrick.com" target="_blank" rel="noopener"><img src="terminal.svg" alt="terminal session — click to open matthewjmyrick.com" width="760" /></a>
 
 </div>
 
