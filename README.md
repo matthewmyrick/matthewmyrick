@@ -39,6 +39,7 @@
 
 | repo | what it is |
 |---|---|
+| 🐕 [beagle](https://github.com/matthewmyrick/beagle) | AI-first incident RCA TUI — Claude investigates a system from its telemetry and writes up the root cause; renders live as a tabbed incident view (Rust) |
 | 🔍 [git-diffs](https://github.com/matthewmyrick/git-diffs) | Full-screen TUI for git diffs between branches — side-by-side view, syntax highlighting, fuzzy search (Go) |
 | 🐧 [catch-pokemon](https://github.com/matthewmyrick/catch-pokemon) | Terminal Pokémon catching game with weighted encounters, animated ASCII art, and signed save storage (Rust/Go) |
 | ⚡ [azure-searcher](https://github.com/matthewmyrick/azure-searcher) | Blazing-fast Azure resource explorer TUI — parallel fetching + smart caching (Go) |
